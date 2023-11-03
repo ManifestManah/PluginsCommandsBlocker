@@ -1,0 +1,14 @@
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.csproj.AssemblyReference.cache
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.AssemblyInfoInputs.cache
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.AssemblyInfo.cs
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.csproj.CoreCompileInputs.cache
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\bin\Debug\net7.0\MetaCommandsBlocker.deps.json
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\bin\Debug\net7.0\MetaCommandsBlocker.dll
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\bin\Debug\net7.0\MetaCommandsBlocker.pdb
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\bin\Debug\net7.0\CounterStrikeSharp.API.dll
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.csproj.CopyComplete
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.dll
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\refint\MetaCommandsBlocker.dll
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\MetaCommandsBlocker.pdb
+C:\Users\Christoffer\Desktop\CSSharp\MetaCommandsBlocker\obj\Debug\net7.0\ref\MetaCommandsBlocker.dll
