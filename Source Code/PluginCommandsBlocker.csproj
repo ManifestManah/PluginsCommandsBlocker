@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="CounterStrikeSharp.API">
-       <HintPath>YOUR CSSHARP FOLDER DESTINATION HERE /_dependencies/CounterStrikeSharp.API.dll</HintPath>
+       <HintPath>YOUR PATH HERE/CounterStrikeSharp.API.dll</HintPath>
     </Reference>
   </ItemGroup>
 
